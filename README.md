@@ -1,4 +1,3 @@
-# dentist-admin-
-asdasdasd
+# Online Dentist management system
 
-chelsea ito yung file..
+
